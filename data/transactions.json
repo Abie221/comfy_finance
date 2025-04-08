@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1744132132713ja8w9sl5o",
+    "description": "Grocery shopping",
+    "amount": -50,
+    "tags": [
+      "food"
+    ],
+    "date": "2025-04-08T17:08:52.713Z"
+  },
+  {
+    "id": "1744132132714cwuk8azdh",
+    "description": "Restaurant",
+    "amount": -30,
+    "tags": [
+      "food",
+      "entertainment"
+    ],
+    "date": "2025-04-08T17:08:52.714Z"
+  },
+  {
+    "id": "1744132132714tye74j6ks",
+    "description": "Salary",
+    "amount": 1000,
+    "tags": [
+      "income"
+    ],
+    "date": "2025-04-08T17:08:52.714Z"
+  }
+]
